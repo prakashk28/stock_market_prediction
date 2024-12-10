@@ -1,4 +1,4 @@
-]# Stock Market Prediction
+# Stock Market Prediction
 
 This repository contains a machine learning model for predicting stock market trends based on historical data. The project uses a Random Forest Regressor to predict stock price movements.
 
