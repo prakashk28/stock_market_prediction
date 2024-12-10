@@ -1,0 +1,17 @@
+[2024-12-10 15:19:34,585] INFO - Loading data...
+[2024-12-10 15:19:35,711] INFO - Data loaded successfully.
+[2024-12-10 15:19:35,712] INFO - Preprocessing data...
+[2024-12-10 15:19:35,894] INFO - Non-numeric columns: Index(['date'], dtype='object')
+[2024-12-10 15:19:36,129] INFO - Preprocessing completed.
+[2024-12-10 15:19:36,170] INFO - X_train shape: (6224, 1288), X_test shape: (1557, 1288)
+[2024-12-10 15:19:36,170] INFO - Training the model...
+[2024-12-10 15:20:02,642] INFO - Evaluating the model...
+[2024-12-10 15:20:02,708] INFO - Training MSE: 1.082904884318766e-05
+[2024-12-10 15:20:02,709] INFO - Test MSE: 0.0
+[2024-12-10 15:20:02,710] INFO - Training MAE: 9.318766066838048e-05
+[2024-12-10 15:20:02,720] INFO - Test MAE: 0.0
+[2024-12-10 15:20:02,720] INFO - Training R^2: 0.9999273724877792
+[2024-12-10 15:20:02,721] INFO - Test R^2: 1.0
+[2024-12-10 15:20:02,722] INFO - Saving model and encoder...
+[2024-12-10 15:20:02,742] INFO - Model and encoder saved successfully.
+[2024-12-10 15:20:02,743] INFO - Pipeline completed.
